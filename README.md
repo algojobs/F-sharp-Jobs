@@ -1,11 +1,13 @@
 # F# Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 12/03/2024
+This data is updated weekly, with filled postings removed. Last updated: 12/13/2024
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [F# Jobs](https://algojobs.io/jobs/f-sharp)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 12/09/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2539491) | [Pluralsight](https://algojobs.io/company/pluralsight/) | N/A | Hybrid - India |
+| 12/05/2024 | [Software Engineer](https://algojobs.io/jobs/2510694) | [Rockwell Automation](https://algojobs.io/company/rockwellautomation/) | N/A | Medellin, Antioquia, Colombia |
 | 11/20/2024 | [Senior Software Engineer - F#](https://algojobs.io/jobs/2247159) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Dublin, Ireland |
 | 11/15/2024 | [Senior Software Engineer - F#](https://algojobs.io/jobs/2213012) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Orlando, Florida, United States |
 | 11/15/2024 | [Senior Software Engineer - F#](https://algojobs.io/jobs/2213015) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Norwalk, Connecticut, United States |
@@ -16,6 +18,4 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/14/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2203786) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Kraków, Lesser Poland Voivodeship, Poland |
 | 11/14/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2203767) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Kraków, Lesser Poland Voivodeship, Poland |
 | 11/13/2024 | [Junior Software Development Engineer](https://algojobs.io/jobs/2193217) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Kraków, Lesser Poland Voivodeship, Poland |
-| 10/30/2024 | [Embedded Haskell Developer Intern](https://algojobs.io/jobs/2104421) | [Anduril Industries](https://algojobs.io/company/andurilindustries/) | N/A | Costa Mesa, California, United States |
 | 10/24/2024 | [Graduate Software Engineer](https://algojobs.io/jobs/2060448) | [509 ResMed Technology India Private Limited](https://algojobs.io/company/resmed/) | N/A | Singapore, Singapore |
-| 10/14/2024 | [Scala Developer - App Infra Team](https://algojobs.io/jobs/1990641) | [Riskified](https://algojobs.io/company/riskified/) | N/A | Lisbon |

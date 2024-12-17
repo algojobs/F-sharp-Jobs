@@ -1,13 +1,12 @@
 # F# Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 12/13/2024
+This data is updated weekly, with filled postings removed. Last updated: 12/17/2024
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [F# Jobs](https://algojobs.io/jobs/f-sharp)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
 | 12/09/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2539491) | [Pluralsight](https://algojobs.io/company/pluralsight/) | N/A | Hybrid - India |
-| 12/05/2024 | [Software Engineer](https://algojobs.io/jobs/2510694) | [Rockwell Automation](https://algojobs.io/company/rockwellautomation/) | N/A | Medellin, Antioquia, Colombia |
 | 11/20/2024 | [Senior Software Engineer - F#](https://algojobs.io/jobs/2247159) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Dublin, Ireland |
 | 11/15/2024 | [Senior Software Engineer - F#](https://algojobs.io/jobs/2213012) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Orlando, Florida, United States |
 | 11/15/2024 | [Senior Software Engineer - F#](https://algojobs.io/jobs/2213015) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Norwalk, Connecticut, United States |

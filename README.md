@@ -1,6 +1,6 @@
 # F# Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 04/09/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/14/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [F# Jobs](https://algojobs.io/jobs/f-sharp)
 

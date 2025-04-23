@@ -1,11 +1,12 @@
 # F# Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 04/14/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/23/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [F# Jobs](https://algojobs.io/jobs/f-sharp)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 04/17/2025 | [Software Engineer (Haskell) - Hydra - IOE: Cardano](https://algojobs.io/jobs/3825687) | [IO Global](https://algojobs.io/company/io-global/) | N/A | United Kingdom (Remote) |
 | 03/27/2025 | [Software Development Engineer - F#](https://algojobs.io/jobs/3613491) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Red Bank, New Jersey, United States |
 | 03/27/2025 | [Software Development Engineer - F#](https://algojobs.io/jobs/3613513) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Orlando, Florida, United States |
 | 03/27/2025 | [Software Engineer II - F#](https://algojobs.io/jobs/3613492) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Dublin, Ireland |
@@ -16,5 +17,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/26/2025 | [Fullstack Developer (F# / C#) - Brand Payment](https://algojobs.io/jobs/3593895) | [Veepee](https://algojobs.io/company/veepee/) | N/A | Barcelona (Hybrid) |
 | 03/19/2025 | [Software Engineer, Guest Engagement [United Kingdom]](https://algojobs.io/jobs/3524359) | [Olo](https://algojobs.io/company/olo/) | $52K - $65K | Remote |
 | 02/25/2025 | [Sr. Software Engineer](https://algojobs.io/jobs/3259901) | [Applied Systems, Inc.](https://algojobs.io/company/appliedsystems/) | N/A | Bengaluru, KA, IN |
-| 02/19/2025 | [Software Development Engineer](https://algojobs.io/jobs/3204266) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Kraków, Lesser Poland Voivodeship, Poland |
-| 02/16/2025 | [Full Stack Developer](https://algojobs.io/jobs/3170221) | [Pow.bio](https://algojobs.io/company/powbio/) | $120K - $160K | Remote or Hybrid |
